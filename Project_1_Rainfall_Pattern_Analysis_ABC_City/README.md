@@ -2,7 +2,7 @@
 
 ## Report
 View the analysis and visualizations here -  
-(https://nbviewer.org/github/yourusername/rainfall-analysis/blob/main/notebooks/exploratory_analysis.ipynb)
+(https://nbviewer.org/github/rahilprime/Practical-Data-Science/blob/main/Project_1_Rainfall_Pattern_Analysis_ABC_City/PracticalDS_Project1.ipynb)
 
 ## Overview
 This project aims to clean and analyze daily rainfall data for ABC City between 2013 and 2023. The goal is to identify rainfall patterns, trends, and seasonal variations over time, providing valuable insights for further analysis or modeling.
@@ -38,9 +38,9 @@ Key insights from the exploratory analysis include:
 
 ## Files
 - `README.md`: This file.
-- `data_cleaning.ipynb`: Notebook detailing the data cleaning process.
-- `exploratory_analysis.ipynb`: Notebook containing the exploratory analysis and visualizations.
-- `rainfall_data.csv`: The original dataset containing daily rainfall records for ABC City.
+- `PracticalDS_Project1.ipynb`: Notebook containing the exploratory analysis and visualizations.
+- `PracticalDS_Project1.doc`: Report document.
+- `Data.csv`: The original dataset containing daily rainfall records for ABC City.
 
 ## License
 This project is licensed under the MIT License.
