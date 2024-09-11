@@ -39,7 +39,7 @@ Key insights from the exploratory analysis include:
 ## Files
 - `README.md`: This file.
 - `PracticalDS_Project1.ipynb`: Notebook containing the exploratory analysis and visualizations.
-- `PracticalDS_Project1.doc`: Report document.
+- `PracticalDS_Project1.pdf`: Report document.
 - `Data.csv`: The original dataset containing daily rainfall records for ABC City.
 
 ## License
