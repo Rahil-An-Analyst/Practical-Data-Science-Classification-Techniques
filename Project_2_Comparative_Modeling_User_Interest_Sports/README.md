@@ -2,6 +2,7 @@
 
 ## Report
 View the analysis and visualizations here -  
+https://nbviewer.org/github/rahilprime/Practical-Data-Science/blob/main/Project_2_Comparative_Modeling_User_Interest_Sports/Report.pdf
 
 ## Overview
 This project involves analyzing and modeling customer data to predict customer behavior. The goal is to evaluate and compare the performance of various classification models to identify the most effective model for the given dataset.
