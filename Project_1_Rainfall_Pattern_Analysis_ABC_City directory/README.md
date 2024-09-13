@@ -2,7 +2,7 @@
 
 ## Report
 View the analysis and visualizations here -  
-https://nbviewer.org/github/rahilprime/Practical-Data-Science/blob/main/Project_1_Rainfall_Pattern_Analysis_ABC_City/PracticalDS_Project1.ipynb
+https://nbviewer.org/github/rahilprime/Practical-Data-Science-Classification-Techniques/blob/main/Project_1_Rainfall_Pattern_Analysis_ABC_City%20directory/PracticalDS_Project1.ipynb
 
 ## Overview
 This project aims to clean and analyze daily rainfall data for ABC City between 2013 and 2023. The goal is to identify rainfall patterns, trends, and seasonal variations over time, providing valuable insights for further analysis or modeling.
